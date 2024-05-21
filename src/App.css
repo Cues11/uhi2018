@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#App {
+  height: 100vh;
+}
+
+.leaflet-container {
+  height: 90vh;
+  width: 90%;
+  border-radius: 2rem;
+}
